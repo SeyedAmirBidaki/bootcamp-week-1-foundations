@@ -94,8 +94,7 @@ at the end of something you do not.
    only after real effort, and never before you have run the code once.
 3. **[project.md](project.md)** — the Cursor project: a terminal notes app.
    Read all of it before you start, including the acceptance criteria.
-4. **The quiz** — `solutions/quiz-week-1.md` if your brother has given you
-   access, otherwise he will send it. Ten questions, 20 minutes, closed book.
+4. **The quiz** — sent by your brother, since it lives in his private solutions repo. Ten questions, 20 minutes, closed book.
 
 Do the exercises before the project. The project will use the same ideas, and
 having just written them by hand is what makes the AI's output judgeable.
@@ -149,3 +148,7 @@ you, and week 2 will feel much worse.
 If neither applies and you are simply not enjoying it, note that too. It is
 information, not a failure, and it belongs in the conversation with your
 brother at the end of week 4.
+
+---
+
+[← Back to the course hub](https://github.com/SeyedAmirBidaki/python-bootcamp) · [Course rules](https://github.com/SeyedAmirBidaki/python-bootcamp/blob/main/rules.md)
